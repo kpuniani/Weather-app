@@ -10,14 +10,14 @@ This application has been developed using Node.js.To get weather details,I have 
    Prerequisties:Node and the Node Package Manager (NPM) should be already installed.
 
 ## Clone this repository:
-  https://github.com/kpuniani/csc583-Final.git
+ https://github.com/kpuniani/Weather-app
 
 ## Go to the folder:
-cd csc583-Final
+cd Weather-app
 
 ## Install all dependicies:
 npm install
 
 Once that is complete you can now run theapplication with the following commands:
 
-Open termial and type node app.js -a ="<adress>"
+Open termial and type node app.js -a =<"adress">
