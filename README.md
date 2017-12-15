@@ -18,6 +18,6 @@ cd Weather-app
 ## Install all dependicies:
 npm install
 
-Once that is complete you can now run theapplication with the following commands:
+Once that is complete you can now run theapplication with the following command:
 
 Open termial and type node app.js -a =<"address">
