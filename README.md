@@ -20,4 +20,4 @@ npm install
 
 Once that is complete you can now run theapplication with the following commands:
 
-Open termial and type node app.js -a =<"adress">
+Open termial and type node app.js -a =<"address">
